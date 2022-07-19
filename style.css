@@ -6,7 +6,7 @@
 
 .background {
     background-image: linear-gradient(45deg, PaleGreen, #333);
-    height: 110vh;
+    height: 100vh;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -15,7 +15,7 @@
 .calculadora{
     position: absolute;
     left: 500px;
-    top: 5%;
+    top: 1%;
     border: 1px solid rgba(51, 51, 51, 0.8);
     background-color: rgba(51, 51, 51, 0.8);
     color: #fff;
@@ -60,14 +60,17 @@
 }
 
 .btn:hover {
+    border: rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.5);
 }
 
 .btn1:hover {
+    border: rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.5);
 }
 
 .btn2:hover {
+    border: rgba(0, 0, 0, 0.5);
     background-color: rgba(0, 0, 0, 0.5);
 }
 
